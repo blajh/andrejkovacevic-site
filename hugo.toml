@@ -5,3 +5,25 @@ theme = "PaperMod"
 
 [params]
 hideFooter = true
+
+[menu]
+
+[[menu.main]]
+name = "Writing"
+url = "/writing/"
+weight = 10
+
+[[menu.main]]
+name = "Projects"
+url = "/projects/"
+weight = 20
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 30
+
+[[menu.main]]
+name = "Now"
+url = "/now/"
+weight = 40
