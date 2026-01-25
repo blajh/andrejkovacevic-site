@@ -7,7 +7,7 @@ theme = "PaperMod"
 [params]
 hideFooter = true
 defaultTheme = "auto"
-ShowReadingTime = true
+ShowReadingTime = false
 ShowShareButtons = false
 ShowPostNavLinks = true
 ShowCodeCopyButtons = true

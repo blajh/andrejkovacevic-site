@@ -1,5 +1,5 @@
 ---
-title: "Writing"
+title: "Tekstovi"
 ---
 
-Essays, notes, and archived columns.
+Eseji, osvrti, bilješke i kolumne.
