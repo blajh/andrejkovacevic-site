@@ -1,29 +1,42 @@
-baseURL = "https://www.andrejkovacevic.com"
-languageCode = 'en-us'
-title = "Andrej Kovacevic"
+baseURL = "https://www.andrejkovacevic.com/"
+languageCode = "hr"
+defaultContentLanguage = "hr"
+title = "Andrej Kovačević"
 theme = "PaperMod"
 
 [params]
 hideFooter = true
+defaultTheme = "auto"
+ShowReadingTime = true
+ShowShareButtons = false
+ShowPostNavLinks = true
+ShowCodeCopyButtons = true
+
+[params.profileMode]
+enabled = true
+title = "Videoigre kao kognitivni medij"
+subtitle = "Igre promatram kao kognitivne sustave, kulturne artefakte i medij transformativnog iskustva."
+imageUrl = "/img/andrej_kovacevic.png"
+imageTitle = "Andrej Kovačević"
 
 [menu]
 
 [[menu.main]]
-name = "Writing"
+name = "Tekstovi"
 url = "/writing/"
 weight = 10
 
 [[menu.main]]
-name = "Projects"
+name = "Projekti"
 url = "/projects/"
 weight = 20
 
 [[menu.main]]
-name = "About"
+name = "O meni"
 url = "/about/"
 weight = 30
 
 [[menu.main]]
-name = "Now"
+name = "Trenutno"
 url = "/now/"
 weight = 40
