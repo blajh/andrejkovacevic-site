@@ -1,5 +1,5 @@
 +++
-date = '2026-01-25T22:06:02+01:00'
+date = '2026-01-26T22:06:02+01:00'
 draft = true
 title = 'Osvrt na rezultate javnog poziva za videoigre HAVC-a'
 +++
