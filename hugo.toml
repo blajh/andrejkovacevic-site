@@ -5,7 +5,7 @@ title = "Andrej Kovačević"
 theme = "PaperMod"
 
 [params]
-hideFooter = true
+hideFooter = false
 defaultTheme = "auto"
 ShowReadingTime = false
 ShowShareButtons = false
