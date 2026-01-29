@@ -281,7 +281,7 @@ Takvi materijali često služe kao dodatni alat za:
 * validaciju produkcijskog plana,  
 * privlačenje interesa izdavača ili investitora.
 
-Trenutno se također razmatra **pojednostavljenje formata dokumentacije**, primjerice kroz lakše, sažetije modele poput ***Game Design Macro*****\-a**, uz mogućnost uvođenja **obveznog prototipa ili *playable build-*a** kao konkretnijeg dokaza izvedivosti.
+Trenutno se također razmatra **pojednostavljenje formata dokumentacije**, primjerice kroz lakše, sažetije modele poput ***Game Design Macro***-a, uz mogućnost uvođenja **obveznog prototipa** ili ***playable build***-a kao konkretnijeg dokaza izvedivosti.
 
 Drugim riječima, **svrha razvoja nije birokratska, već produkcijska** — cilj je smanjiti rizik, povećati jasnoću i osigurati da projekti koji prelaze u proizvodnju imaju realne šanse za uspješnu realizaciju.
 
